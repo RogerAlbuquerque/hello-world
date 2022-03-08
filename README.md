@@ -2,7 +2,8 @@
 Aprendendo de verdade o git/github.
 ----
 
-#Teste
-##Teste 2
+# Teste
+
+## Teste 2
 
 
