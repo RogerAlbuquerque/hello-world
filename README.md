@@ -1,2 +1,2 @@
 # hello-world
-Aprendendo de verdade o git/github
+Aprendendo de verdade o git/github.
